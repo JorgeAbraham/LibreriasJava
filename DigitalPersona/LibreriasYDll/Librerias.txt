@@ -1,0 +1,8 @@
+
+Se copian en:
+
+%JAVA_HOME%/bin
+
+%JAVA_HOME%/jre/bin
+
+C:/windows/system32/
